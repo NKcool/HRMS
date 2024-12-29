@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+input {
+  @apply bg-gray-200;
+}
+.box{
+  height: 20px;
+  width: 20px;
+}
+*{
+  box-sizing: border-box;
+}
+.backgroundGradiend{
+  background: rgb(103,9,153);
+background: linear-gradient(0deg, rgba(103,9,153,1) 17%, rgba(209,124,249,1) 86%, rgba(203,111,255,1) 100%, rgba(146,16,251,1) 100%);
+ color: white;
+ 
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Michael Scott",
+    "email": "michael.scott@example.com",
+    "phone": "123-456-7890",
+    "department": "Sales",
+    "Designation": "Regional Manager",
+    "role": "Manager",
+    "status": "Active",
+    "joinDate": "2020-01-15T00:00:00Z"
+  },
+  {
+    "name": "Dwight Schrute",
+    "email": "dwight.schrute@example.com",
+    "phone": "123-456-7890",
+    "department": "Sales",
+    "Designation": "Assistant Regional Manager",
+    "role": "Sales",
+    "status": "Active",
+    "joinDate": "2019-03-22T00:00:00Z"
+  },
+  {
+    "name": "Jim Halpert",
+    "email": "jim.halpert@example.com",
+    "phone": "123-456-7890",
+    "department": "Sales",
+    "Designation": "Sales Representative",
+    "role": "Sales",
+    "status": "Active",
+    "joinDate": "2018-06-12T00:00:00Z"
+  },
+  {
+    "name": "Pam Beesly",
+    "email": "pam.beesly@example.com",
+    "phone": "123-456-7890",
+    "department": "Administration",
+    "Designation": "Receptionist",
+    "role": "Admin",
+    "status": "Active",
+    "joinDate": "2017-09-05T00:00:00Z"
+  },
+  {
+    "name": "Stanley Hudson",
+    "email": "stanley.hudson@example.com",
+    "phone": "123-456-7890",
+    "department": "Sales",
+    "Designation": "Sales Representative",
+    "role": "Sales",
+    "status": "Active",
+    "joinDate": "2016-11-30T00:00:00Z"
+  },
+  {
+    "name": "Angela Martin",
+    "email": "angela.martin@example.com",
+    "phone": "123-456-7890",
+    "department": "Accounting",
+    "Designation": "Accountant",
+    "role": "Finance",
+    "status": "Active",
+    "joinDate": "2015-02-18T00:00:00Z"
+  }
+]

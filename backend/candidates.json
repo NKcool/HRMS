@@ -1,0 +1,52 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phone": "123-456-7890",
+    "position": "Software Engineer",
+    "resume": "/path/to/resume/john_doe.pdf",
+    "status": "Pending",
+    "experience": "5 years",
+    "dateApplied": "2023-10-01T00:00:00Z"
+  },
+  {
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "phone": "234-567-8901",
+    "position": "Data Scientist",
+    "resume": "/path/to/resume/jane_smith.pdf",
+    "status": "Pending",
+    "experience": "3 years",
+    "dateApplied": "2023-10-02T00:00:00Z"
+  },
+  {
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "phone": "345-678-9012",
+    "position": "Product Manager",
+    "resume": "/path/to/resume/alice_johnson.pdf",
+    "status": "Pending",
+    "experience": "7 years",
+    "dateApplied": "2023-10-03T00:00:00Z"
+  },
+  {
+    "name": "Bob Brown",
+    "email": "bob.brown@example.com",
+    "phone": "456-789-0123",
+    "position": "UX Designer",
+    "resume": "/path/to/resume/bob_brown.pdf",
+    "status": "Pending",
+    "experience": "4 years",
+    "dateApplied": "2023-10-04T00:00:00Z"
+  },
+  {
+    "name": "Charlie Davis",
+    "email": "charlie.davis@example.com",
+    "phone": "567-890-1234",
+    "position": "DevOps Engineer",
+    "resume": "/path/to/resume/charlie_davis.pdf",
+    "status": "Pending",
+    "experience": "6 years",
+    "dateApplied": "2023-10-05T00:00:00Z"
+  }
+]
